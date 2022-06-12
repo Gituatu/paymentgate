@@ -44,8 +44,8 @@
     width : 20vw;
     display: flex;
     justify-content: space-between;
-    position : fixed;  
-    align-items: center;
+   /* position : fixed;  
+    align-items: center;*/
 }
 
 .nav-container{
