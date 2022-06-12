@@ -73,7 +73,8 @@
     width: 10vw;
     height: 5vh;
     font-size: 1rem;
-    border : none;
+    border : 1px solid #000000;
+    border-radius : 10px;
     font-family: 'Ubuntu', sans-serif;;
     font-style: italic; 
 }
