@@ -51,7 +51,7 @@
     font-family: 'Ubuntu' , sans-serif;
     display: flex;
     justify-content: space-between;
-    position : absolute;
+    position :relative;
 }
 
 .main{
