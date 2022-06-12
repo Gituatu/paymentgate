@@ -49,6 +49,8 @@
 .nav-container{
     font-size : 20px;
     font-family: 'Ubuntu' , sans-serif;
+    display: flex;
+    justify-content: space-between;
 }
 
 .main{
@@ -191,6 +193,12 @@
   
   
   @media screen and (max-width: 420px){
+    .header{
+    background-image: url("/image.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: 100% 100%;
+    }
     .card-grp{
       flex-direction: column;
     }
